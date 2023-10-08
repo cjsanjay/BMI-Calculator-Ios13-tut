@@ -5,6 +5,11 @@
 ## User settings
 xcuserdata/
 
+<<<<<<< HEAD
+=======
+*.DS_Store
+
+>>>>>>> b9f0474 (Initial commit for the BMI Calculator IOS 13 tut)
 ## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
 *.xcscmblueprint
 *.xccheckout
